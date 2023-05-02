@@ -1,0 +1,20 @@
+<div class="panel panel-heading">
+  <div class="panel-heading">Caddies</div>
+  <div class="panel-body">
+    <table class="table table-striped">
+        <tr>
+            <th>ID</th><th>Name</th><th>Quantity</th><th>Prix</th>
+        </tr>
+        <tr *ngFor="let pi of cadService.getCurrentCaddy()?.items?.values()">
+           <td>{{pi.produit.id}}</td> 
+           <td>{{pi.produit.name}}</td> 
+           <td>{{pi.quantity}}</td> 
+           <td>{{pi.price}}</td> 
+        </tr>
+        <tr>
+            <td colspan="3">Total</td>
+            <td>{{cadService.getTotal()}}</td>
+        </tr>
+    </table>
+  </div>
+</div>

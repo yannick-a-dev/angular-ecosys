@@ -1,0 +1,2017 @@
+<!doctype html>
+<html lang="fr">
+
+
+<head>
+  <meta charset="UTF-8">
+    <title>SSC Tuatara : la voiture la plus puissante au monde - Challenges</title>
+    
+  <meta name="description" content="La SSC Tuatara se présente comme la voiture la plus puissante au monde. Cette supercar dessinée par Jason Castriota annonce une vitesse supérieure à 480 km/h." />
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+    <link rel="preload" href="/fonts/DIN_Pro/DIN_Pro_Regular/DIN_Pro_Regular.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/DIN_Pro/DIN_Pro_Medium/DIN_Pro_Medium.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/Publico_Banner/Publico_Banner_Regular/Publico_Banner_Regular.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/Franklin_Gothic/Franklin_Gothic_Regular/Franklin_Gothic_Regular.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/Franklin_Gothic/Franklin_Gothic_Medium/Franklin_Gothic_Medium.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/cha-icons/cha-icons.woff2?v=7" as="font" type="font/woff2" crossorigin />
+    <link rel="preconnect" href="https://code.jquery.com" crossorigin />
+<link rel="preconnect" href="https://assets.poool.fr" crossorigin />
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin />
+<link rel="preconnect" href="https://cdn.taboola.com" crossorigin />
+<link rel="preconnect" href="https://sdk.privacy-center.org" crossorigin />
+    <link rel="canonical" href="https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928" /><meta name="news_keywords" content="Supercar" /><link rel="amphtml" href="https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928.amp" />    <meta property="og:site_name" content="Challenges" /><meta property="og:type" content="article" /><meta property="og:url" content="https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928" /><meta property="og:title" content="SSC Tuatara : la voiture la plus puissante au monde - Challenges" /><meta property="og:description" content="La SSC Tuatara se présente comme la voiture la plus puissante au monde. Cette supercar dessinée par Jason Castriota annonce une vitesse supérieure à 480 km/h." /><meta property="og:image" content="https://www.challenges.fr/assets/img/2018/08/27/cover-r4x3w1200-5b84072224873-pbc18-conference-09-jpg.jpg" /><meta property="og:article:published_time" content="2018-08-27T14:19:45.000Z" /><meta property="article:published_time" content="2018-08-27T14:19:45.000Z" /><meta property="og:article:author" content="Nicolas Meunier" /><meta property="article:author" content="Nicolas Meunier" /><meta property="og:article:section" content="Nouveautés" /><meta property="article:section" content="Nouveautés;Automobile" /><meta property="fb:pages" content="79566127213" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@Challenges" /><meta name="twitter:creator" content="Nicolas Meunier" /><meta name="twitter:title" content="SSC Tuatara : la voiture la plus puissante au monde - Challenges" /><meta name="twitter:description" content="La SSC Tuatara se présente comme la voiture la plus puissante au monde. Cette supercar dessinée par Jason Castriota annonce une vitesse supérieure à 480 km/h." /><meta name="twitter:image" content="https://www.challenges.fr/assets/img/2018/08/27/cover-r4x3w1200-5b84072224873-pbc18-conference-09-jpg.jpg" /><meta name="twitter:image:alt" content="SSC Tuatara" />
+    <meta name="robots" content="index, follow, noodp, noarchive, max-snippet:300, max-image-preview:large, max-video-preview:5" />
+    <meta name="theme-color" content="#333333" />
+    <meta name="apple-itunes-app" content="app-id=377380727" />
+    <link rel="shortcut icon" type="image/png" href="https://www.challenges.fr/img/cha/favicon/icon32.png" />
+    <link rel="apple-touch-icon" href="https://www.challenges.fr/icons/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://www.challenges.fr/icons/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="https://www.challenges.fr/icons/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www.challenges.fr/icons/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.challenges.fr/icons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="https://www.challenges.fr/icons/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="https://www.challenges.fr/icons/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.challenges.fr/icons/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.challenges.fr/icons/apple-touch-icon-180x180.png" />
+
+    <link rel="stylesheet" type="text/css" href="https://www.challenges.fr/css/article-cha.css?version=ic1f843da-ec72-44a1-8598-adf255f9bfbb" >
+
+  
+  <link rel="alternate" href="https://www.challenges.fr/automobile/nouveautes/rss.xml" type="application/rss+xml" title="A la une" />  
+  
+  
+  
+<script>
+var isCmp = true;
+
+  const urlParams = new URLSearchParams(window.location.search);
+  isCmp = urlParams.get('from') !== "cmp";
+
+window.didomiConfig = {
+  notice: {
+    enable: isCmp,
+    content: {
+      dismiss: {
+        fr: 'Accepter et continuer'
+      },
+      learnMore: {
+        fr: 'Paramétrer'
+      },
+
+    }
+  },
+  preferences: {
+    content: {
+      titleVendors: {
+        fr: 'Liste des partenaires'
+      },
+      textVendors: {
+        fr: "Cliquez sur le nom d'un partenaire pour obtenir plus d'informations sur ce qu'il fait, les données qu'il récolte et comment il les utilise.",
+      },
+    }
+  }
+};
+</script>
+  <script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+  var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("00438117-57a7-472f-b246-0f419de13448")})();</script>
+
+
+  <script>
+      window.gtmName = 'cha_ga';
+    </script>
+
+  
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+  
+  <script async subscriptions-control="manual" src="https://news.google.com/swg/js/v1/swg.js"></script>
+  <script async src="https://news.google.com/swg/js/v1/swg-gaa.js"></script>
+  <script src="https://accounts.google.com/gsi/client"></script>
+
+  
+  
+<script>
+  var trackingData = {
+    "atInternet": {"chapter1":"automobile","chapter2":"nouveautes","chapter3":"","pagename":"ssc_tuatara_la_voiture_la_plus_puissante_au_monde_608928","errorType":"","contentType":"contenu","subContentType":"article","category":"","contentProvider":"journaliste","author":"nicolas_meunier","publicationDate":"20180827","modificationDate":"20180827","contentID":608928,"contentName":"ssc_tuatara_la_voiture_la_plus_puissante_au_monde","section1":"automobile","section2":"nouveautes","tags":""}
+  };
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push(trackingData);
+</script>
+    
+
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      'block-id': 'index-article',
+      'payant': false,
+      'mobile': 'false',
+      'tablet': 'false',
+    });
+  </script>
+
+  
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5R3RG2H');</script>
+
+  
+      
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;e.src = u;e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/lagardere-challenges/loader.js',
+    'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function'){
+    window.performance.mark('tbl_ic');
+  }
+</script>  
+  
+  
+  
+
+
+
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.challenges.fr/","name":"Challenges"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.challenges.fr/automobile/","name":"Automobile"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.challenges.fr/automobile/nouveautes/","name":"Nouveautés"}}]}
+</script>
+
+
+
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"Webpage","@id":"https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928"},"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".article-chapo"]},"url":"https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928","articleSection":"Nouveautés","headline":"SSC Tuatara : la voiture la plus puissante au monde","description":"NOUVEAUTE. On croyait le petit constructeur américain SSC disparu. Après sept ans sans nouvelle, le voilà de retour avec la version définitive de sa Tuatara qui ambitionne ni plus ni moins que de rivaliser avec Bugatti.\r\n","datePublished":"2018-08-27T14:19:45.000Z","dateModified":"2018-08-27T14:19:45.000Z","author":[{"@type":"Person","name":"Nicolas Meunier","url":"https://www.challenges.fr/auteurs/nicolas-meunier_88/"}],"image":{"@type":"ImageObject","url":"https://www.challenges.fr/assets/img/2018/08/27/cover-r4x3w1000-5b84072224873-pbc18-conference-09-jpg.jpg","caption":"La SSC Tuatara annonce une vitesse de pointe supérieure à 480 km/h.\r\n","width":1000,"height":750},"publisher":{"@type":"Organization","name":"Challenges"},"keywords":[],"isAccessibleForFree":true,"isPartOf":{"@type":["CreativeWork","Product"],"name":"SSC Tuatara : la voiture la plus puissante au monde","productID":"challenges.fr:showcase","articleBody":"Les dernières nouvelles de SSC, ce petit constructeur américain spécialisé dans les supercars, remontent à 2011. A l'époque, la présentation de sa Tuatara avait attiré l'attention par son style fuselé, œuvre d'un des designers les plus en vogue de l'époque. Jason Castriota s'était fait un nom chez Pininfarina, en dessinant notamment le concept-car Maserati Birdcage ainsi que la Ferrari P4/5 destinée au collectionneur James Glickenhaus. Il était aussi et surtout, au moment où il a signé le dessin de la Tuatara, le directeur du style Saab (lire notre article sur la Saab PhoeniX), à une époque où le petit constructeur néerlandais Spyker tentait de redresser la marque suédoise.En sept ans, les choses ont bien changé. Saab a fait faillite et Jason Castriota est retombé dans l'anonymat des bureaux de style Ford, après être passé chez Skylabs, un petit studio de design et innovation new-yorkais. Et tout le monde semble avoir oublié SSC. Le record de vitesse pour une voiture de production (412 km/h inscrit au Guinness) obtenu avec l'Ultimate Aero semble maintenant bien lointain, puisqu'il remonte à 2007. Et plus aucune voiture n'est sortie des ateliers de Shelby SuperCars, à West Richland dans l'état de Washington, depuis 2015.On n'attendait plus la SSC TuataraC'est donc un retour surprise qui a lieu au concours d'élégance de Pebble Beach cette année. Shelby SuperCars est revenu sur le devant de la scène, sous le nom de SSC North America. Aussi et surtout, il a emmené dans ses bagages la version définitive de la Tuatara, au style à peine altéré par les contraintes de l'homologation. Le nez apparaît très légèrement moins pointu, la surface vitrée un peu plus échancrée et la face arrière plus aérée. Les premières photos laissent par contre deviner une finition assez artisanale, avec notamment des jours de carrosserie irréguliers et un cuir imparfaitement posé sur le volant. Voilà qui trahit la vocation, très américaine, de SSC North America : la puissance et la vitesse, avant un quelconque raffinement.Grand diaporamaEn images : SSC TuataraPour autant, la petite entreprise dirigée par Jerod Shelby (qui n'a aucun lien de parenté avec Caroll Shelby, créateur de la fameuse AC Cobra) entend bien rivaliser avec Bugatti et Koenigsegg. Et pour cela, elle annonce une fiche technique plutôt impressionnante. La Tuatara promet ainsi une vitesse de pointe supérieure à 300 mph, soit 480 km/h. De quoi a priori en faire la voiture la plus rapide au monde. Aujourd'hui, la Bugatti Chiron est bridée électroniquement à 420 km/h. Et l'actuelle détentrice du record, la Koenigsegg Agera RS, plafonne à 447 km/h. Enfin, le concurrent américain de SSC,  Hennessey, promet également 480 km/h pour sa Venom F5 mais celle-ci en est encore au stade du développement. Alors que la Tuatara est prête à produire, le constructeur accepte déjà les réservations. Potentiellement donc, c'est un nouveau record qui est à mettre au crédit de SSC, qu'il faudra simplement faire valider.L'épineuse question des pneusCes vitesses de pointe très élevées posent la question de la résistance des pneus. Ceux-ci sont la principale raison du choix de Bugatti de brider la Chiron à 420 km/h. Comme le prototype de la Hennessey Venom F5, la SSC Tuatara fait appel à des Michelin pilot Sport Cup 2. Il est vrai que la nouvelle venue est bien plus légère qu'une Chiron (1.247 kg contre 1.995 kg), mais est-ce suffisant pour sauvegarder les gommes ? Difficile à dire. Ce qui est sans doute vrai, c'est que Bugatti, qui fait partie de l'imposant Groupe Volkswagen, ne laisse sans doute rien au hasard en termes d'ingénierie, alors que les deux artisans américains attachent sans doute plus d'importance aux chiffres sensationnels. Tout de même, SSC a choisi d'optimiser l'aérodynamique avec un Cx de 0,28, à comparer aux 0,36 d'une Bugatti Chiron et aux 0,33 des Koenigsegg Agera RS et Hennessey Venom F5. Mais il n'est fait nulle mention par le constructeur de l'appui aérodynamique, pourtant garant de la stabilité à haute vitesse.Outre la vitesse, SSC met également en avant une puissance impressionnante. La Tuatara fait appel à un V8 biturbo de 5,9 litres, développé par le spécialiste de la préparation Nelson Racing Engines. Celui-ci développe 1.350 ch lorsqu'il fonctionne à l'essence, cavalerie qui grimpe à 1.750 ch lorsque le réservoir est rempli d'éthanol, à la densité énergétique supérieure. Pour les mêmes raison, Koenigsegg avait lancé à ses débuts quelques versions spécifiques carburant à l'éthanol. Cela fait de la Tuatara la voiture la plus puissante au monde, alors que les Koenigsegg Agera et Bugatti Chiron annoncent 1.500 ch, et la Hennessey Venom F5, 1.622 ch. Reste la délirante Devel Sixteen, qui promet 5.007 ch (!), mais dont le développement est encore hypothétique.Au-delà de ces chiffres qui devraient suffire à attirer certains amateurs, la Tuatara apparaît finalement assez classique pour une voiture de ce type. Par ses dimensions déjà, avec une longueur de 4,43 m, une largeur de 1,99 m et une hauteur de 1,09 m. Le châssis et la carrosserie en fibre de carbone apparaissent également sans surprise, tout comme le choix d'une boîte de vitesses robotisée à sept rapports. Et cela se poursuit avec le nombre d'exemplaires produits, qui sera limitée à 100 exemplaires. De quoi garantir l'exclusivité de cette auto, dont le tarif est inconnu mais qui est estimé aux alentours de 1,5 million d'euros.","articleSection":"Nouveautés","wordCount":876}}
+</script>
+
+
+</head>
+
+  <body
+    class=" "
+    data-account-base="https://www.challenges.fr" data-site-base="https://www.challenges.fr">
+
+          <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5R3RG2H" height="0" width="0"
+          style="display:none;visibility:hidden"></iframe></noscript>
+
+      
+
+<header class="header-main" style="">
+    
+<menu class="header-top">
+  <div class="in">
+    <div class="h-social">
+      
+      <a href="https://www.facebook.com/challenges" target="_blank" rel="noopener" class="fb social-btn-grey at-link" data-at="reseaux_sociaux-uppermenu-social-facebook-exit" ><span class="icon-social icon-social-facebook"></span></a>
+      
+      <a href="https://twitter.com/Challenges" target="_blank" rel="noopener" class="tw social-btn-grey at-link" data-at="reseaux_sociaux-uppermenu-social-twitter-exit" ><span class="icon-social icon-social-twitter"></span></a>
+      
+      <a href="https://www.instagram.com/challenges/" target="_blank" rel="noopener" class="instagram social-btn-grey at-link" data-at="reseaux_sociaux-uppermenu-social-instagram-exit" ><span class="icon-social icon-social-instagram"></span></a>
+      
+      <a href="https://www.linkedin.com/company/80846" target="_blank" rel="noopener" class="ln social-btn-grey at-link" data-at="reseaux_sociaux-uppermenu-social-linkedin-exit" ><span class="icon-social icon-social-linkedin"></span></a>
+      
+      <a href="https://www.challenges.fr/rss" target="_blank" rel="noopener" class="rss social-btn-grey at-link" data-at="flux_rss-uppermenu---navigation" ><span class="icon-social icon-social-rss"></span></a>
+    </div>
+    <div class="h-links">
+            <a href="https://live.challenges.fr" target="_blank" rel="noopener" class="sm at-link" data-at="annonces_legales-uppermenu---exit" >Live Challenges</a>
+          </div>
+    <div class="h-tools">
+      
+        
+      <a href="https://www.challenges.fr/mon-compte/newsletters/" class="sm nl at-link" data-at="preference_newsletter-uppermenu---action" >Newsletter</a>
+      
+      
+      <a href="https://www.challenges.fr/services" class="sm app at-link" data-at="service-uppermenu---navigation" >Services</a>
+      
+      <a href="https://abo.challenges.fr/liseuse/" class="sm shop at-link" data-at="liseuse-uppermenu---action" >Magazine</a>
+    </div>
+
+    <a href="javascript:void(0)" class="h-search"><span class="icon-search"></span></a>
+    
+    <div class="h-connect">
+
+
+      <div class="h-moncompte user-show" style="display:none">
+        <a href="javascript:void(0)" class="sm">Mon compte <span class="h-moncompte-dropdown"></span></a>
+        <div>
+          <a href="https://espaceclient.challenges.fr/WebloggiaGCH/" class="sm">Mon profil</a>
+          <a href="#" class="sm logout">Déconnexion</a>
+        </div>
+      </div>
+      <a href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928" class="sm user-hide">Connexion</a>
+
+
+      <a href="https://abo.challenges.fr/" class="sm abo at-link" data-at="abonnement-uppermenu---action" >S’abonner</a>
+
+    </div>
+    
+  </div>
+</menu>
+
+    <div class="search-bloc">
+    <div class="fond"></div>
+    <div class="s">
+      <div class="in">
+        <form action="https://www.challenges.fr/search/">
+          <input type="text" name="search" placeholder="Rechercher sur Challenges.fr">
+          <a href="javascript:void(0)" class="close">
+            <span class="icon-close-cross"></span>
+          </a>
+        </form>
+      </div>
+    </div>
+  </div>
+    <nav class="xs-visible">
+    <div class="in">
+      <a href="javascript:void(0)" class="menu-xs-btn"><span class="line"></span></a>
+
+      <a href="https://abo.challenges.fr/" class="abo at-link" data-at="abonnement-uppermenu---action" >S’abonner</a>
+
+
+  <a href="https://espaceclient.challenges.fr/WebloggiaGCH/afficherCreationUtilisateur.action?email=" style="float: right; padding: 10px 12px 11px 12px;"><img style="height: 16px;" src="https://www.challenges.fr/img/cha/newsletters/newsletter-header.png" alt="newsletter header"></a>
+ 
+    </div>
+  </nav>
+    <div class="header-sm">
+    <menu class="main-nav">
+      <ul class="menu">
+        <li class="dropdown">
+          <ul class="dropdown-menu">
+            <li class="menu-btn"><a href="javascript:void(0)" class="menu-xs-btn"><span class="line"></span><span class="text">Menu</span></a></li>
+            <li class="li-logo">
+              
+                <a href="https://www.challenges.fr" class="" style="padding-top: 9px;">
+                
+                  <img src="https://www.challenges.fr/img/cha/logo.svg" style="width: 104px;">
+                
+                </a>
+              
+            </li>
+            
+            <li class="li-search"><a href="javascript:void(0)" class="search"><span class="icon-search"></span></a></li>
+            
+
+            <li class="abo"><a href="https://abo.challenges.fr/" class="at-link" data-at="abonnement-uppermenu---action" >S’abonner</a></li>
+
+
+
+
+            <li class="connect sm-visible user-hide"><a href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928">Connexion</a></li>
+            <li class="h-moncompte sm-visible user-show">
+              <a href="javascript:void(0)" class="sm">Mon compte<span class="h-moncompte-dropdown"></span></a>
+              <div>
+                <a href="https://espaceclient.challenges.fr/WebloggiaGCH/" class="sm">Mon profil</a>
+                <a href="#" class="sm logout">Déconnexion</a>
+              </div>
+            </li>
+
+
+
+  <li class="connect sm-visible"><a href="https://espaceclient.challenges.fr/WebloggiaGCH/afficherCreationUtilisateur.action?email=" style="padding-top: 14px;"><img style="height: 16px;" src="https://www.challenges.fr/img/cha/newsletters/newsletter-header.png" alt="newsletter header"></a></li>
+ 
+          </ul>
+        </li>
+      </ul>
+    </menu>
+  </div>
+    <div class="header-banner">
+    <div class="in">
+
+      <a href="https://www.challenges.fr" class="logo">
+          <img src="https://www.challenges.fr/img/cha/logo.svg" alt="Challenges, l&#39;actualité de l&#39;économie, de la finance, de l&#39;entreprise et les échos de la Bourse" style="width: 319px; height: 82px;">
+      </a>
+    </div>
+  </div>
+
+
+
+    <nav class="main-nav" role="navigation" aria-label="primary">
+    <div class="in">
+      <ul class="menu">
+        <li id="home" class="dropdown d-rbrq-home">
+          <a href="https://www.challenges.fr/"><span class="icon-home"></span></a>
+        </li>
+        <li id="entreprise" class="dropdown">
+                    <a href="https://www.challenges.fr/entreprise/"  ><span>Entreprise</span></a>
+        </li>
+        <li id="economie" class="dropdown">
+                    <a href="https://www.challenges.fr/economie/"  ><span>Economie</span></a>
+        </li>
+        <li id="politique" class="dropdown">
+                    <a href="https://www.challenges.fr/politique/"  ><span>Politique</span></a>
+        </li>
+        <li id="monde" class="dropdown">
+                    <a href="https://www.challenges.fr/monde/"  ><span>Monde</span></a>
+        </li>
+        <li id="medias" class="dropdown">
+                    <a href="https://www.challenges.fr/media/"  ><span>Médias</span></a>
+        </li>
+        <li id="tech" class="dropdown">
+                    <a href="https://www.challenges.fr/high-tech/"  ><span>Tech</span></a>
+        </li>
+        <li id="auto" class="dropdown d-rbrq-on">
+                    <a href="https://www.challenges.fr/automobile/"  ><span>Auto</span></a>
+          <div class="rbrq-common">
+            <ul class="dropdown-menu">
+                <li><a href="https://www.challenges.fr/automobile/actu-auto/">Actu</a></li>
+                <li><a href="https://www.challenges.fr/automobile/comparatifs/">Comparatifs</a></li>
+                <li><a href="https://www.challenges.fr/automobile/concept-cars/">Concept-cars</a></li>
+                <li><a href="https://www.challenges.fr/automobile/essais/">Essais</a></li>
+                <li><a href="https://www.challenges.fr/automobile/nouveautes/">Nouveautés</a></li>
+                <li><a href="https://www.challenges.fr/automobile/salons-automobile/">Salons</a></li>
+                <li><a href="https://www.challenges.fr/automobile/voitures-propres/">Voitures propres</a></li>
+                <li><a href="https://www.challenges.fr/automobile/scooters-a-l-essai/">Scooters</a></li>
+                <li><a href="https://www.challenges.fr/galeries-photos/automobile/">Galeries photos</a></li>
+              <li class="more" style="display:none"><ul></ul></li>
+            </ul>
+          </div>
+        </li>
+        <li id="emploi" class="dropdown">
+                    <a href="https://www.challenges.fr/emploi/"  ><span>Emploi</span></a>
+        </li>
+        <li id="patrimoine" class="dropdown">
+                    <a href="https://www.challenges.fr/patrimoine/"  ><span>Patrimoine</span></a>
+        </li>
+        <li id="luxe" class="dropdown">
+                    <a href="https://www.challenges.fr/luxe/"  ><span>Luxe</span></a>
+        </li>
+        <li id="femmes" class="dropdown">
+                    <a href="https://www.challenges.fr/femmes/"  ><span>Femmes</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+</header>
+
+<nav class="menu-xs">
+  <form action="/search/">
+    <div class="in">
+      <input type="text" name="search" placeholder="Rechercher">
+    </div>
+  </form>
+  <div class="items">
+    
+
+
+
+
+    <div class="xs-visible">
+      <a href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928" class="sm user-hide lg-in-btn btn-nav-log btn-cha-log">Se connecter</a>
+      <a href="https://espaceclient.challenges.fr/WebloggiaGCH/" class="sm user-show btn-nav-log btn-cha-log" style="display:none">Mon compte</a>
+      <a href="#" class="sm btn-nav-log lg-out-btn user-show logout" style="display:none">Se déconnecter</a>
+    </div>
+
+
+
+    <div class="bloc rbrq bloc-line">
+
+      
+        <div class="menu-item">
+          <a href="https://www.challenges.fr/videos/" class="item-audio">Vidéos</a>
+        </div>
+        <div class="menu-item">
+          <a href="https://www.challenges.fr/audio/" class="item-audio">Challenges Audio</a>
+        </div>
+        <div class="menu-item">
+          <a href="https://www.challenges.fr/espace-debat/debats/" class="item-debat">Espace débat</a>
+        </div>
+            
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/entreprise/">
+            Entreprise
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/entreprise/defense/">Défense</a></li>
+                                    <li><a href="https://www.challenges.fr/industrie/">Industrie</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/grande-conso/">Grande conso</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/industrie-automobile/">Automobile</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/sante-et-pharmacie/">Santé</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/transports/">Transports</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/energie/">Energie</a></li>
+                                    <li><a href="https://www.challenges.fr/creation-d-entreprise/">Création d&#39;entreprise</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/aeronautique/">Aéronautique</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/btp/">BTP</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/tourisme/">Tourisme</a></li>
+                                    <li><a href="https://www.challenges.fr/start-up/">Start-up</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/environnement/">Environnement</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/entreprise/">Galeries photos </a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/la-voix-des-dirigeants/">La voix des dirigeants</a></li>
+                                    <li><a href="https://www.challenges.fr/entreprise/le-colloque/">Le Colloque</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/economie/">
+            Economie
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/economie/budget/">Budget</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/fiscalite/">Fiscalité</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/social/">Social</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/agriculture/">Agriculture</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/conjoncture/">Conjoncture</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/consommation/">Consommation</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/meilleurtaux-banques/">Meilleurtaux Banques</a></li>
+                                    <li><a href="https://www.challenges.fr/economie/les-videos-de-l-essec/">Les vidéos de l&#39;ESSEC</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/economie/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/politique/">
+            Politique
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/politique/la-republique-en-marche/">LREM</a></li>
+                                    <li><a href="https://www.challenges.fr/politique/parti-socialiste/">Parti socialiste</a></li>
+                                    <li><a href="https://www.challenges.fr/politique/les-republicains/">Les Républicains</a></li>
+                                    <li><a href="https://www.challenges.fr/politique/rassemblement-national/">Rassemblement National</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/politique/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/monde/">
+            Monde
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/monde/europe/">Europe</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/etats-unis/">Etats-Unis</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/russie/">Russie</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/moyen-orient/">Moyen-orient</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/afrique/">Afrique</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/ameriques/">Amériques</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/asie-pacifique/">Asie-Pacifique</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/japon/">Japon</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/brics/">Brics</a></li>
+                                    <li><a href="https://www.challenges.fr/monde/ocde/">OCDE</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/monde/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/media/">
+            Médias
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/media/audiovisuel/">Audiovisuel</a></li>
+                                    <li><a href="https://www.challenges.fr/media/presse/">Presse</a></li>
+                                    <li><a href="https://www.challenges.fr/media/digital/">Digital</a></li>
+                                    <li><a href="https://www.challenges.fr/media/publicite/">Publicité</a></li>
+                                    <li><a href="https://www.challenges.fr/media/edition/">Edition</a></li>
+                                    <li><a href="https://www.challenges.fr/media/gafa/">GAFA</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/media/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/high-tech/">
+            Tech
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/high-tech/french-tech/">French Tech</a></li>
+                                    <li><a href="https://www.challenges.fr/high-tech/telecoms/">Télécoms</a></li>
+                                    <li><a href="https://www.challenges.fr/high-tech/jeux-video/">Jeux vidéo</a></li>
+                                    <li><a href="https://www.challenges.fr/high-tech/test-high-tech/">Test high-tech</a></li>
+                                    <li><a href="https://www.challenges.fr/high-tech/informatique-et-conseil/">Informatique</a></li>
+                                    <li><a href="https://www.challenges.fr/high-tech/grand-public/">Grand public</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/high-tech/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item active">
+          <a class="" href="https://www.challenges.fr/automobile/">
+            Auto
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/automobile/actu-auto/">Actu</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/comparatifs/">Comparatifs</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/concept-cars/">Concept-cars</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/essais/">Essais</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/nouveautes/">Nouveautés</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/salons-automobile/">Salons</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/voitures-propres/">Voitures propres</a></li>
+                                    <li><a href="https://www.challenges.fr/automobile/scooters-a-l-essai/">Scooters</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/automobile/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/emploi/">
+            Emploi
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/emploi/management/">Management</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/special-stages/">Stages</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/formation/">Formation</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/remuneration/">Rémunération</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/special-mba/">MBA</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/marche-de-l-emploi/">Marché de l&#39;emploi</a></li>
+                                    <li><a href="https://www.challenges.fr/emploi/droit-du-travail/">Droit du travail</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/emploi/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/patrimoine/">
+            Patrimoine
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/patrimoine/epargne/">Epargne</a></li>
+                                    <li><a href="https://www.challenges.fr/patrimoine/arts-et-encheres/">Arts et enchères</a></li>
+                                    <li><a href="https://www.challenges.fr/patrimoine/placements/">Placements</a></li>
+                                    <li><a href="https://www.challenges.fr/patrimoine/retraite/">Retraite</a></li>
+                                    <li><a href="https://www.challenges.fr/immobilier/">Immobilier</a></li>
+                                    <li><a href="https://immobilier.challenges.fr/">Défiscalisation immobilière</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/patrimoine/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/luxe/">
+            Luxe
+          </a>
+                      <span class="children__button icon-arrow-down"></span>
+              <ul class="children dropdown-menu">
+                                    <li><a href="https://www.challenges.fr/luxe/mode/">Mode</a></li>
+                                    <li><a href="https://www.challenges.fr/luxe/design/">Design</a></li>
+                                    <li><a href="https://www.challenges.fr/luxe/montres/">Montres</a></li>
+                                    <li><a href="https://www.challenges.fr/lifestyle/gastronomie/">Gastronomie</a></li>
+                                    <li><a href="https://www.challenges.fr/lifestyle/voyages/">Voyage</a></li>
+                                    <li><a href="https://www.challenges.fr/lifestyle/">Lifestyle</a></li>
+                                    <li><a href="https://www.challenges.fr/galeries-photos/luxe/">Galeries photos</a></li>
+                                <li class="more" style="display:none"><ul></ul></li>
+              </ul>
+                  </div>
+      
+        <div class="menu-item ">
+          <a class="" href="https://www.challenges.fr/femmes/">
+            Femmes
+          </a>
+                  </div>
+            
+            
+        <div class="menu-item">
+          <a href="https://www.challenges.fr/services" class="at-link" data-at="service-uppermenu---navigation" >Services</a>
+        </div>
+            
+        <div class="menu-item">
+          <a href="https://www.challenges.fr/green-economie/">Green économie</a>
+        </div>
+          </div>
+  </div>
+</nav>
+<header class="header-sticky header-shadow"
+  style="" >
+  <nav class="main-nav" role="navigation" aria-label="secondary">
+    <ul class="menu">
+      <li class="dropdown">
+        <ul class="dropdown-menu">
+          <li class="menu-btn"><a href="javascript:void(0)" class="menu-xs-btn"><span class="line"></span><span class="text">Menu</span></a></li>
+          
+            <li class="li-logo"><a href="https://www.challenges.fr" class="logo"></a></li>
+          
+          <li><a href="https://www.challenges.fr/">Home</a></li><li><a href="https://www.challenges.fr/entreprise/">Entreprise</a></li><li><a href="https://www.challenges.fr/economie/">Economie</a></li><li><a href="https://www.challenges.fr/politique/">Politique</a></li><li><a href="https://www.challenges.fr/monde/">Monde</a></li><li><a href="https://www.challenges.fr/media/">Médias</a></li><li><a href="https://www.challenges.fr/high-tech/">Tech</a></li><li><a href="https://www.challenges.fr/automobile/">Auto</a></li><li><a href="https://www.challenges.fr/emploi/">Emploi</a></li><li><a href="https://www.challenges.fr/patrimoine/">Patrimoine</a></li><li><a href="https://www.challenges.fr/luxe/">Luxe</a></li><li><a href="https://www.challenges.fr/femmes/">Femmes</a></li>
+          <li class="more" style="display:none"><ul></ul></li>
+          <li class="li-search"><a href="https://www.challenges.fr/search/" class="search"><span class="icon-search"></span></a></li>
+          <li class="my-account user-show"><a href="https://espaceclient.challenges.fr/WebloggiaGCH/">Mon compte</a></li>
+          
+          
+            <li class="abo user-hide"><a href="https://abo.challenges.fr/" class="at-link" data-at="abonnement-uppermenu---action" >S’abonner</a></li>
+          
+          
+          
+          
+            <li class="connect sm-visible user-hide"><a href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928">Connexion</a></li>
+          
+          
+  <li class="connect sm-visible"><a href="https://espaceclient.challenges.fr/WebloggiaGCH/afficherCreationUtilisateur.action?email=" style="padding-top: 14px;"><img style="height: 16px;" src="https://www.challenges.fr/img/cha/newsletters/newsletter-header.png" alt="newsletter header"></a></li>
+ 
+
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+            <div id='moneytag-DHTML'></div>
+        <div class="mainWrapper">
+
+          
+          <div class="pub-container-haut">
+    <div id='moneytag-SKIN'></div>    <div id="moneytag-BAN-ATF" class="fixed"></div></div>
+          
+
+          <div
+            class="container
+                                                ">
+
+            
+
+<main class="container-in container-main container-main-article container-in-border-top
+  
+  
+  " >
+
+  
+  
+
+  
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+  
+  
+
+
+  <section class="ejs-tpl-linksList highlights-top rbrq-common-a  ejs-tpl-linksList-desktop">
+    <div class="container-a-link-list">
+      
+        
+          <a class="cha-a-link-list temps-fort-audio at-link" data-at="challenges_audio-home-temps_fort--navigation"
+             href="https://www.challenges.fr/audio/">Challenges Audio</a>
+      
+        
+          <a class="cha-a-link-list  at-link" data-at="espace_debat-home-temps_fort--navigation"
+             href="https://www.challenges.fr/espace-debat/debats">Espace débat</a>
+      
+        
+          <a class="cha-a-link-list  at-link" data-at="nos_editorialistes-home-temps_fort--navigation"
+             href="https://www.challenges.fr/idees/">Nos éditorialistes</a>
+      
+        
+          <a class="cha-a-link-list  at-link" data-at="grandes_ecoles-home-temps_fort--navigation"
+             href="https://www.challenges.fr/grandes-ecoles/">Grandes Écoles </a>
+      
+        
+          <a class="cha-a-link-list  at-link" data-at="1to1retail-home-temps_fort--exit"
+             href="https://www.challenges.fr/1to1retail/">1to1retail</a>
+      
+    </div>
+  </section>
+  
+  <section class="ejs-tpl-linksList highlights-top rbrq-common-a  ejs-tpl-linksList-mobile">
+    <div class="container-a-link-list">
+      
+        
+          <a class=" at-link" data-at="idees-home-temps_fort--navigation"
+             href="https://www.challenges.fr/idees/">Idées</a>
+      
+        
+          <a class=" at-link" data-at="entreprise-home-temps_fort--navigation"
+             href="https://www.challenges.fr/entreprise/">Entreprise</a>
+      
+        
+          <a class=" at-link" data-at="economie-home-temps_fort--navigation"
+             href="https://www.challenges.fr/economie/">Économie</a>
+      
+        
+          <a class=" at-link" data-at="politique-home-temps_fort--navigation"
+             href="https://www.challenges.fr/politique/">Politique</a>
+      
+        
+          <a class=" at-link" data-at="monde-home-temps_fort--exit"
+             href="https://www.challenges.fr/monde/">Monde</a>
+      
+        
+          <a class=" at-link" data-at="media-home-temps_fort--exit"
+             href="https://www.challenges.fr/media/">Média</a>
+      
+        
+          <a class=" at-link" data-at="hightech-home-temps_fort--exit"
+             href="https://www.challenges.fr/high-tech/">High-Tech</a>
+      
+        
+          <a class=" at-link" data-at="automobile-home-temps_fort--exit"
+             href="https://www.challenges.fr/automobile/">Automobile</a>
+      
+        
+          <a class=" at-link" data-at="emploi-home-temps_fort--exit"
+             href="https://www.challenges.fr/emploi/">Emploi</a>
+      
+        
+          <a class=" at-link" data-at="patrimoine-home-temps_fort--exit"
+             href="https://www.challenges.fr/patrimoine/">Patrimoine</a>
+      
+        
+          <a class=" at-link" data-at="luxe-home-temps_fort--exit"
+             href="https://www.challenges.fr/luxe/">Luxe</a>
+      
+        
+          <a class=" at-link" data-at="femmes-home-temps_fort--exit"
+             href="https://www.challenges.fr/femmes/">Femmes</a>
+      
+        
+          <a class=" at-link" data-at="challenges_audio-home-temps_fort--exit"
+             href="https://www.challenges.fr/audio/">Challenges Audio</a>
+      
+    </div>
+  </section>
+
+  
+
+
+  
+
+
+
+  
+
+
+
+  <section class="content ">
+
+    
+    
+      
+<div class="article-share">
+
+  <div>
+    
+    <span class="msg sm-visible xs-visible">Partager</span>
+    <a class="share-item share-sm fb at-link" title="Partager sur Facebook" rel="nofollow"
+      href="#" data-url="https://www.facebook.com/sharer/sharer.php?u=https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928"
+      data-at="partage-articles-sharing_bar-facebook-exit"
+    >
+      <span class="icon-social icon-social-facebook"></span>
+    </a>
+  
+
+    
+    <a class="share-item share-sm tw at-link" title="Partager sur Twitter" rel="nofollow"
+      href="#" data-url="https://twitter.com/share?url=https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928&via=Challenges&text=SSC%20Tuatara%20%3A%20la%20voiture%20la%20plus%20puissante%20au%20monde"
+      data-at="partage-articles-sharing_bar-twitter-exit"
+    >
+      <span class="icon-social icon-social-twitter"></span>
+    </a>
+
+    
+    <a class="share-item share-sm ln at-link" title="Partager sur LinkedIn" rel="nofollow"
+      href="#" data-url="https://www.linkedin.com/shareArticle?url=https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928"
+      data-at="partage-articles-sharing_bar-linkedin-exit"
+    >
+      <span class="icon-social icon-social-linkedin"></span>
+    </a>
+
+    
+    <a class="share-item ml at-link" title="Partager par Email" rel="nofollow"
+      href="mailto:?subject=SSC Tuatara : la voiture la plus puissante au monde&amp;body=https://www.challenges.fr/automobile/nouveautes/ssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928"
+      data-at="partage-articles-sharing_bar-mail-action"
+    >
+      <span class="icon-social icon-social-mail"></span>
+    </a>
+
+    <a href="javascript:void(0)" class="print"><span class="icon-social icon-printer"></span></a>
+  </div>
+
+  <div class="coms">
+    <a href="#comments"><span class="icon-social icon-comment"></span></a>
+  </div>
+
+</div>
+
+    
+
+    
+    
+
+    
+
+    <div class="content-main content-main-full content-article-start">
+
+      
+        
+<p class="breadcrumb">
+  <a href="https://www.challenges.fr/">Challenges</a>
+  <span class="sep"></span>
+  <a href="https://www.challenges.fr/automobile/">Automobile</a>
+  <span class="sep"></span>
+  <a href="https://www.challenges.fr/automobile/nouveautes/">Nouveautés</a>
+</p>
+
+      
+
+      <div class="article-start">
+        
+
+
+  <div class="article-thematique">
+
+    
+
+    <span class="rbrq-auto-color">Nouveautés</span>
+
+    <a href="javascript:void(0)" class="follow-rbrq-btn followed
+    rbrq-auto-border
+    rbrq-auto-svg
+    rbrq-auto-color" style="display: none;">
+
+      <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6 4.6" style="enable-background:new 0 0 6 4.6;" xml:space="preserve" class="svg replaced-svg f1">
+<path d="M2.1,4.6L1.4,3.9L5.3,0L6,0.7L2.1,4.6z"></path>
+<path d="M2.4,3.5L1.7,4.2L0,2.5l0.7-0.7L2.4,3.5z"></path>
+</svg>
+      <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8.7 8.7" style="enable-background:new 0 0 8.7 8.7;" xml:space="preserve" class="svg replaced-svg f2">
+<path d="M8.7,8L8,8.7l-8-8L0.7,0L8.7,8z"></path>
+<path d="M8,0l0.7,0.7l-8,8L0,8L8,0z"></path>
+</svg>
+      <span class="f1">Thématique suivie</span>
+      <span class="f2">Ne plus suivre</span>
+    </a>
+  </div>
+
+
+
+
+
+
+  <h1>SSC Tuatara&nbsp;: la voiture la plus puissante au monde</h1>
+
+
+      </div>
+
+    </div>
+
+    
+    
+
+      
+      <div class="content-main ">
+
+        <div class="article-start">
+          
+<p class="article-infos">
+  
+
+  
+    <span>Par
+    
+          <a href="https://www.challenges.fr/auteurs/nicolas-meunier_88" class="signature">Nicolas Meunier</a>
+        
+  </span>
+
+  
+  
+  
+  le <a href="https://www.challenges.fr/index/2018/08/27/">27.08.2018 à 16h19</a>
+
+
+  
+  
+    
+<span class='article-read-time'><span class='icon-watch'></span> Lecture 5 min.</span>
+  
+
+  
+</p>
+
+
+
+
+
+
+<div class="article-chapo"><p>NOUVEAUTE. On croyait le petit constructeur américain SSC disparu. Après sept ans sans nouvelle, le voilà de retour avec la version définitive de sa Tuatara qui ambitionne ni plus ni moins que de rivaliser avec Bugatti.</p>
+</div>
+
+
+
+<div class="article-lire-reactions sm-visible button-reactions-first">
+  
+  <a href="#comments" class="article-reactions">réagir</a>
+  
+  
+</div>
+
+
+
+
+
+
+        </div>
+
+        
+        
+          
+  <div class="article-image">
+
+    <div class="in">
+      <img class="lazyload " src="/img/cha/placeholders/placeholder_1000x750.jpg" data-src="https://www.challenges.fr/assets/img/2018/08/27/cover-r4x3w1000-5b84072224873-pbc18-conference-09-jpg.jpg" alt="SSC Tuatara" width="623" height="466" />
+    </div>
+
+    
+    
+
+      <span class="visuel-credits">
+        <p>La SSC Tuatara annonce une vitesse de pointe supérieure à 480 km/h.</p>
+ 
+        <div class="wrap-to-row">
+          <span class="icon-camera-icon"></span>
+          <span>Kimball Studios</span>
+        </div>
+      </span>
+    
+
+  </div>
+
+
+        
+
+        
+          <div class="reaction-holder xs-visible">
+            
+              <a href="#comments"
+                 class="article-reactions "><span class="in"><span class="icon-comment"></span><span class="label-comment">Commenter</span></span></a>
+            
+            
+          </div>
+        
+
+        
+
+        
+        
+
+            
+            <article class="container-inside-right">
+
+              
+              
+
+
+              
+              
+              <div class=" corps">
+
+                <div>
+	<p>Les dernières nouvelles de <strong>SSC, ce petit constructeur américain spécialisé dans les supercars</strong>, remontent à 2011. A l'époque, la présentation de sa Tuatara avait attiré l'attention par son style fuselé, œuvre d'un des designers les plus en vogue de l'époque. Jason Castriota s'était fait un nom chez Pininfarina, en dessinant notamment le concept-car Maserati Birdcage ainsi que la Ferrari P4/5 destinée au collectionneur James Glickenhaus. Il était aussi et surtout, au moment où il a signé le dessin de la Tuatara, le directeur du style Saab (lire notre article sur la <a href="https://www.challenges.fr/automobile/geneve-2011/salon-de-geneve-2011-saab-phoenix_397038">Saab PhoeniX</a>), à une époque où le petit constructeur néerlandais Spyker tentait de redresser la marque suédoise.</p><div id="moneytag-INARTICLE-ATF"><div id="moneytag-INARTICLE1"></div></div>
+
+<p>En sept ans, les choses ont bien changé. Saab a fait faillite et Jason Castriota est retombé dans l'anonymat des bureaux de style Ford, après être passé chez Skylabs, un petit studio de design et innovation new-yorkais. Et tout le monde semble avoir oublié SSC. Le record de vitesse pour une voiture de production (412 km/h inscrit au Guinness) obtenu avec l'Ultimate Aero semble maintenant bien lointain, puisqu'il remonte à 2007. Et plus <strong>aucune voiture n'est sortie des ateliers de Shelby SuperCars</strong>, à West Richland dans l'état de Washington, <strong>depuis 2015</strong>.</p>
+
+<h2>On n'attendait plus la SSC Tuatara</h2>
+
+<p>C'est donc un retour surprise qui a lieu au concours d'élégance de Pebble Beach cette année. Shelby SuperCars est revenu sur le devant de la scène, sous le nom de SSC North America. Aussi et surtout, il a emmené dans ses bagages la <strong>version définitive de la Tuatara</strong>, au style à peine altéré par les contraintes de l'homologation. Le nez apparaît très légèrement moins pointu, la surface vitrée un peu plus échancrée et la face arrière plus aérée. Les premières photos laissent par contre deviner une <strong>finition assez artisanale</strong>, avec notamment des jours de carrosserie irréguliers et un cuir imparfaitement posé sur le volant. Voilà qui trahit la vocation, très américaine, de SSC North America : la puissance et la vitesse, avant un quelconque raffinement.</p>
+
+<div class="article-diaporama diapo-micro" data-uri="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876"><div class="in"><span class="title"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876">En images : SSC Tuatara</a></span><div class="thumbnails"><div class="left"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876" class="prev"></a></div><div class="right"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876" class="next"></a></div><ul><li class="item" data-slug="ssc-tuatara-face"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876"><img class="lazyload " src="/img/cha/placeholders/placeholder_200x150.jpg" data-src="https://www.challenges.fr/assets/img/2018/08/27/images_list-r4x3w200-5b83dbd84c735-ssc-tuatara-1.jpg" alt="SSC Tuatara, face" width="200" height="150"></a></li><li class="item" data-slug="ssc-tuatara-avant"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876"><img class="lazyload " src="/img/cha/placeholders/placeholder_200x150.jpg" data-src="https://www.challenges.fr/assets/img/2018/08/27/images_list-r4x3w200-5b83ca308da6b-5b8107c1b775a90776665fac-dsc05061-0-jpg.jpg" alt="SSC Tuatara, avant" width="200" height="150"></a></li><li class="item" data-slug="ssc-tuatara-3-4-avant"><a href="https://www.challenges.fr/automobile/nouveautes/en-images-ssc-tuatara-pebble-beach-2018_608876"><img class="lazyload " src="/img/cha/placeholders/placeholder_200x150.jpg" data-src="https://www.challenges.fr/assets/img/2018/08/27/images_list-r4x3w200-5b83ca308fbe9-5b818867947a5637d80633e3-dsc05059-0-jpg.jpg" alt="SSC Tuatara, 3/4 avant" width="200" height="150"></a></li></ul></div></div></div>
+
+<p>Pour autant, la petite entreprise dirigée par Jerod Shelby (qui n'a aucun lien de parenté avec Caroll Shelby, créateur de la fameuse AC Cobra) entend bien rivaliser avec Bugatti et Koenigsegg. Et pour cela, elle annonce une fiche technique plutôt impressionnante. La Tuatara promet ainsi une <strong>vitesse de pointe supérieure à 300 mph, soit 480 km/h</strong>. De quoi a priori en faire la voiture la plus rapide au monde. Aujourd'hui, la Bugatti Chiron est bridée électroniquement à 420 km/h. Et l'actuelle détentrice du record, la Koenigsegg Agera RS, plafonne à 447 km/h. Enfin, le concurrent américain de SSC, &nbsp;Hennessey, promet également 480 km/h pour sa Venom F5 mais celle-ci en est encore au stade du développement. Alors que la Tuatara est prête à produire, le constructeur accepte déjà les réservations. Potentiellement donc, c'est un nouveau record qui est à mettre au crédit de SSC, qu'il faudra simplement faire valider.</p><div class="BeOpWidget user-premium-hide" data-name="sponsoonly"></div>
+
+<h2>L'épineuse question des pneus</h2>
+
+<p>Ces vitesses de pointe très élevées posent la question de la <strong>résistance des pneus</strong>. Ceux-ci sont la principale raison du choix de Bugatti de brider la Chiron à 420 km/h. Comme le prototype de la Hennessey Venom F5, la SSC Tuatara fait appel à des Michelin pilot Sport Cup 2. Il est vrai que la nouvelle venue est bien plus légère qu'une Chiron (1.247 kg contre 1.995 kg), mais est-ce suffisant pour sauvegarder les gommes ? Difficile à dire. Ce qui est sans doute vrai, c'est que Bugatti, qui fait partie de l'imposant Groupe Volkswagen, ne laisse sans doute rien au hasard en termes d'ingénierie, alors que les deux artisans américains attachent sans doute plus d'importance aux chiffres sensationnels. Tout de même, SSC a choisi d'optimiser l'aérodynamique avec un Cx de 0,28, à comparer aux 0,36 d'une Bugatti Chiron et aux 0,33 des Koenigsegg Agera RS et Hennessey Venom F5. Mais il n'est fait nulle mention par le constructeur de l'appui aérodynamique, pourtant garant de la stabilité à haute vitesse.</p>
+
+<p><img alt="SSC Tuatara" data-id="384295" src="https://www.challenges.fr/assets/inline-img/2018/08/27/w453-384295-5b818867b402398e1b11f819-dsc04987-0-jpg.jpg"></p>
+
+<p>Outre la vitesse, SSC met également en avant une puissance impressionnante. La Tuatara fait appel à un <strong>V8 biturbo de 5,9 litres</strong>, développé par le spécialiste de la préparation Nelson Racing Engines. Celui-ci développe 1.350 ch lorsqu'il fonctionne à l'essence, cavalerie qui grimpe à <strong>1.750 ch</strong> lorsque le réservoir est rempli d'éthanol, à la densité énergétique supérieure. Pour les mêmes raison, Koenigsegg avait lancé à ses débuts quelques versions spécifiques carburant à l'éthanol. Cela fait de la Tuatara la voiture la plus puissante au monde, alors que les Koenigsegg Agera et Bugatti Chiron annoncent 1.500 ch, et la Hennessey Venom F5, 1.622 ch. Reste la délirante Devel Sixteen, qui promet 5.007 ch (!), mais dont le développement est encore hypothétique.</p>
+
+<p>Au-delà de ces chiffres qui devraient suffire à attirer certains amateurs, la Tuatara apparaît finalement assez classique pour une voiture de ce type. Par ses dimensions déjà, avec une longueur de 4,43 m, une largeur de 1,99 m et une hauteur de 1,09 m. Le <strong>châssis et la carrosserie en fibre de carbone</strong> apparaissent également sans surprise, tout comme le choix d'une boîte de vitesses robotisée à sept rapports. Et cela se poursuit avec le nombre d'exemplaires produits, qui sera <strong>limitée à 100 exemplaires</strong>. De quoi garantir l'exclusivité de cette auto, dont le tarif est inconnu mais qui est estimé aux alentours de 1,5 million d'euros.</p>
+
+</div>
+
+<div id="poool-widget" class="free" style="width: 100%; margin: 0 auto;"></div>
+
+                
+              </div>
+
+              
+
+              
+
+                
+                
+                  <a href="#comments"
+                     class="article-reactions  xs-visible"><span class="in"><span class="icon-comment"></span><span class="label-comment">Commenter</span></span></a>
+                
+
+                
+                
+
+<p class="article-tags">
+
+  
+  </p>
+
+
+                
+                
+                  <a href="#comments"
+                     class="article-reactions  xs-hidden"><span class="in"><span class="icon-comment"></span><span class="label-comment">Commenter</span></span></a>
+                
+
+              
+
+            </article>
+
+            
+            
+              <aside class="aside-left container-inside-left">
+
+                
+
+                <div class="xs-hidden">
+                  
+
+
+<div class="bloc list">
+  <span class="title">Sur le même sujet</span>
+  <ul class="list-square">
+    
+    <li>
+      <a href="https://www.challenges.fr/automobile/nouveautes/bugatti-divo-la-voiture-la-plus-chere-au-monde_608558" >
+        Bugatti Divo, la voiture la plus chère au monde
+      </a>
+    </li>
+    
+    <li>
+      <a href="https://www.challenges.fr/automobile/nouveautes/lamborghini-aventador-svj-la-plus-rapide-au-monde-sur-le-nurburgring_608548" >
+        Lamborghini présente la voiture la plus rapide au monde sur le Nurbürgring
+      </a>
+    </li>
+    
+    <li>
+      <a href="https://www.challenges.fr/automobile/nouveautes/une-voiture-de-1500-ch-sans-boite-de-vitesses-c-est-possible_15349" >
+        Une voiture de 1500 ch sans boîte de vitesses, c&#39;est possible
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+
+                </div>
+
+                <div class="xs-hidden">
+                  
+
+
+
+
+                </div>
+
+              </aside>
+            
+
+            
+            
+
+          
+          
+            
+<div class="logora_synthese" id="js-logora" data-object-id="logora_config" style="float: right;width: 100%;"></div>
+
+          
+
+          
+          <div class="bottom" >
+            <div id="mt-taboola-begin">
+
+              
+
+              
+              <div id="Taboola-widget"></div>
+
+              
+              
+
+              
+              
+                
+<div id="ultimedia_chasea" class="digiteka user-premium-hide"></div>
+<script>
+  var ULTIMEDIA_mdtk;
+  var ULTIMEDIA_target = "ultimedia_chasea";
+
+  if (!window.chaDelayedCommands) { window.chaDelayedCommands = []; }
+  window.chaDelayedCommands.push(function () {
+    ULTIMEDIA_mdtk = isMobile.any ? "01253638" : "01650969";
+  });
+</script>
+
+              
+            </div>
+
+            
+            
+              
+
+<div id="comments" class="commentaires bloc-full">
+
+  <span class="comms-title">Commenter</span>
+
+  <form class="com  user-show  " style="display:none"
+    data-node="608928">
+
+    <textarea placeholder="Participez à la conversation" style="min-width:100%; max-width:100%;"></textarea>
+    <a href="javascript:void(0)" class="comms-react"><span class="in"><span class="icon-comment"></span><span class="label-comment">Réagir</span></span></a>
+  </form>
+
+  <a href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928" class="comms-react comms-react-big user-hide
+    ">Pour réagir, veuillez vous connecter en cliquant ici</a>
+
+  
+  <ul class="not-loaded" data-id="608928" data-nb="0"></ul>
+  
+
+  
+
+</div>
+
+            
+            
+          </div>
+
+          
+          
+
+      </div>
+
+      
+      <div class="content-right">
+        
+
+  
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+<div class="bloc noborder">
+  <div class="in bourse bourse-mini">
+    <ul>
+      <li class="infos">
+        <a href="https://bourse.challenges.fr/">Bourse</a>
+        <span>Le 28/04 à 18H05</span>
+      </li>
+      <li class="big">
+        
+        
+        <span class="ttl">
+          <a href="https://bourse.challenges.fr/fichevaleur.html?pays=FR&amp;ticker=PX1">CAC 40</a>
+        </span>
+        <span class="val">7491,50</span>
+        <span class="value ">+0,10%</span>
+        
+      </li>
+      <li class="links">
+        <form class="search-form"
+          action="https://bourse.challenges.fr/recherche.html" method="get">
+
+          <a class="search-link"><span>Rechercher une valeur</span></a>
+          <input type="text" value="" name="code">
+        </form>
+      </li>
+    </ul>
+  </div>
+</div>
+
+  
+
+
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+<div class="bloc newsletter-form">
+  <span class="title">Newsletter Challenges</span>
+  <div class="in">
+    <img class="lazyload" data-src="/img/cha/divers/block-newsletter-bandeau.jpg " width="350" height="124" />
+    <form method="GET" action="https://espaceclient.challenges.fr/WebloggiaGCH/afficherCreationUtilisateur.action">
+      <input type="email" name="email" placeholder="Entrez votre adresse e-mail">
+      <input type="submit" class="gtm-input at-link" data-at="newsletter-articles-side_bar--action" value="Je crée mon compte">
+      <p>Déjà un compte ? <a href="https://espaceclient.challenges.fr/WebloggiaGCH/" target="_blank">Je me connecte</a>
+    </form>
+  </div>
+</div>
+
+  
+
+
+
+  
+    
+      <div class="pub-container-middle">
+	        <div id="moneytag-MPU-ATF" class="sticky"></div>            
+	
+</div>
+     
+
+     
+
+    
+
+  
+
+  
+  
+<div class="bloc list list-rbrq">
+  
+  <a href="https://www.challenges.fr/automobile/"
+    class="title rbrq-auto-color">Automobile</a>
+  
+  <div class="in">
+    <ul class="list-square">
+      
+      
+      
+      <li>
+        
+        
+        <a href="https://www.challenges.fr/automobile/essais/volkswagen-golf-tdi-2023-toujours-la-meilleure-berline-compacte_853298" title="Volkswagen Golf TDi 2023: toujours la meilleure berline compacte?" class="overlay-hover">
+          <span class="overlay">
+            <img class="lazyload " src="/img/cha/placeholders/placeholder_400x300.jpg" data-src="https://www.challenges.fr/assets/img/2019/10/24/cover-r4x3w400-6446ac5acd1ff-db2019au01447-jpg.jpg" alt="Volkswagen Golf Style (2020)" width="200" height="150" />
+          </span>
+          <span>Volkswagen Golf TDi 2023&nbsp;: toujours la meilleure berline compacte?</span>
+        </a>
+        
+      </li>
+      
+      <li>
+        
+        
+        <a href="https://www.challenges.fr/automobile/actu-auto/carburants-de-synthese-le-patron-de-stellantis-carlos-tavares-sy-interesse-de-pres_853702" title="Carburants de synthèse: le patron de Stellantis, Carlos Tavares, s&#39;y intéresse de près">Carburants de synthèse&nbsp;: Carlos Tavares (Stellantis) s'y intéresse</a>
+        
+      </li>
+      
+      <li>
+        
+        
+        <a href="https://www.challenges.fr/automobile/essais/bmw-230e-active-tourer-plus-de-300-ch-dans-le-scenic-hybride-bavarois_850630" title="BMW 230e Active Tourer: plus de 300 ch dans le Scénic hybride bavarois">BMW 230e Active Tourer&nbsp;: plus de 300 ch dans le Scénic hybride bavarois</a>
+        
+      </li>
+      
+      <li>
+        
+        
+        <a href="https://www.challenges.fr/automobile/actu-auto/citroen-lance-un-petit-suv-indien-qui-prefugure-le-futur-modele-europeen_853363" title="Citroën lance un petit SUV indien, qui préfigure le futur C3 Aircross européen">Citroën lance un petit SUV indien, qui préfigure le C3 Aircross de fin 2024</a>
+        
+      </li>
+      
+      <li>
+        
+        
+        <a href="https://www.challenges.fr/automobile/actu-auto/mercedes-relance-son-emblematique-classe-e-onzieme-depuis-1946_853292" title="Mercedes relance son emblématique Classe E, onzième version depuis… 1946">Mercedes relance son emblématique Classe E, onzième version depuis… 1946</a>
+        
+      </li>
+      
+    </ul>
+    <a href="https://www.challenges.fr/automobile/" class="more">Tous les articles Automobile</a>
+  </div>
+</div>
+
+  
+
+
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+
+
+<div class="bloc abo">
+  <span class="title">à la une cette semaine</span>
+  <div class="in">
+    <div class="wrap">
+      
+        <img data-src="https://www.challenges.fr/static_files/CHA-couv/couv.jpg" class="couv lazyload" alt="Couverture du magazine">
+        <img data-src="https://www.challenges.fr/static_files/CHA-couv/couv.jpg" class="small lazyload" alt="Couverture du magazine">
+        <div class="mask"></div>
+      
+    </div>
+    <a href="https://abo.challenges.fr/liseuse/" class="buy  at-link" data-at="liseuse-articles-side_bar--action" >
+      <span>Lire</span>
+    </a>
+    <a href="https://abo.challenges.fr/" class="subs at-link" data-at="abonnement-articles-side_bar--action" >
+      <span class="cta-abo-button">S’abonner</span>
+    </a>
+  </div>
+</div>
+
+
+
+
+  
+
+
+
+  
+     
+
+    
+      <div class="pub-container-middle">
+	                <div id="moneytag-MPU-BTF" class="sticky"></div>    
+	
+</div>
+     
+
+    
+
+  
+
+  
+  
+
+
+  <div class="bloc list">
+  <span class="title">
+    
+      Notre rubrique Automobile
+    
+  </span>
+    <div class="in">
+      <ul class="list-square">
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/actu-auto/" title="Actualité automobile"
+               class="overlay-hover">
+              <span>Actualité automobile</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/comparatifs/" title="Comparatifs"
+               class="overlay-hover">
+              <span>Comparatifs</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/essais/" title="Essais"
+               class="overlay-hover">
+              <span>Essais</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/nouveautes/" title="Nouveautés"
+               class="overlay-hover">
+              <span>Nouveautés</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/salons-automobile/" title="Salons de l&#39;auto"
+               class="overlay-hover">
+              <span>Salons de l&#39;auto</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/scooters-a-l-essai/" title="Scooters"
+               class="overlay-hover">
+              <span>Scooters</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/automobile/voitures-propres/" title="Voitures propres"
+               class="overlay-hover">
+              <span>Voitures propres</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/galeries-photos/automobile/" title="Galeries photos Automobile"
+               class="overlay-hover">
+              <span>Galeries photos Automobile</span>
+            </a>
+          </li>
+        
+          <li>
+            
+            <a href="https://www.challenges.fr/videos/automobile/" title="Vidéos Automobile"
+               class="overlay-hover">
+              <span>Vidéos Automobile</span>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+  
+
+
+
+  
+
+
+      </div>
+
+      
+      
+
+  </section>
+</main>
+
+
+            
+              <div
+                class="container-in container-in-border-top container-in-border-top-sml container-pre-footer list">
+                <div class="table">
+                  
+
+  
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+  <div class="bloc pre-footer-sm">
+  <span class="title">
+    
+      Pratique
+    
+  </span>
+    <div class="in">
+      <ul class="list-square">
+        
+          <li>
+            <a href="https://vendreaunpromoteur.com"
+               title="Vendre à un promoteur" class="at-link" data-at="vendre_a_un_promoteur-lower_menu---exit" >Vendre à un promoteur</a>
+          </li>
+        
+          <li>
+            <a href="https://www.starofservice.com/"
+               title="StarOfService" class="at-link" data-at="starofservice-lower_menu---exit" >StarOfService</a>
+          </li>
+        
+          <li>
+            <a href="https://bonne-assurance.com/mutuelle/classement/meilleures-mutuelles-sante/"
+               title="Meilleure mutuelle" class="at-link" data-at="meilleure_mutuelle-lower_menu---exit" >Meilleure mutuelle</a>
+          </li>
+        
+          <li>
+            <a href="https://quel-assureur.com/comparateur-auto"
+               title="Comparateur assurance auto" class="at-link" data-at="comparateur_assurance_auto-lower_menu---exit" >Comparateur assurance auto</a>
+          </li>
+        
+          <li>
+            <a href="https://mon-auto-assure.com/devis"
+               title="Devis assurance auto" class="at-link" data-at="devis_assurance_auto-lower_menu---exit" >Devis assurance auto</a>
+          </li>
+        
+          <li>
+            <a href="https://www.challenges.fr/finance-et-marche/les-banques-en-ligne-proposent-elles-les-meilleurs-placements_820745"
+               title="Meilleurs placements" class="at-link" data-at="meilleurs_placements-lower_menu---exit" >Meilleurs placements</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+
+
+  
+
+
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+  <div class="bloc pre-footer-sm">
+  <span class="title">
+    
+      Services
+    
+  </span>
+    <div class="in">
+      <ul class="list-square">
+        
+          <li>
+            <a href="https://courtier.fr/finance/rachat-de-credit/"
+               title="Courtier rachat de credit immobilier" class="at-link" data-at="courtier_rachat_de_credit_immobilier-lower_menu---exit" >Courtier rachat de credit immobilier</a>
+          </li>
+        
+          <li>
+            <a href="https://reflex-boutique.fr/carrelage/62-carrelage-exterieur"
+               title="Carrelage extérieur" class="at-link" data-at="carrelage_exterieur-lower_menu---exit" >Carrelage extérieur</a>
+          </li>
+        
+          <li>
+            <a href="https://mutuelle.dispofi.fr/mutuelle-seniors"
+               title="Mutuelle Senior" class="at-link" data-at="mutuelle_senior-lower_menu---exit" >Mutuelle Senior</a>
+          </li>
+        
+          <li>
+            <a href="https://le-jeune-conducteur.com"
+               title="Assurance jeune conducteur" class="at-link" data-at="assurance_jeune_conducteur-lower_menu---exit" >Assurance jeune conducteur</a>
+          </li>
+        
+          <li>
+            <a href="https://www.meilleursagents.com/estimation-immobiliere/?utm_source=challenges&amp;utm_medium=banner&amp;utm_campaign=affiliate-challenges-estima"
+               title="Estimez votre bien immobilier" class="at-link" data-at="estimez_votre_bien_immobilier-lower_menu---exit" >Estimez votre bien immobilier</a>
+          </li>
+        
+          <li>
+            <a href="https://www.printoclock.com/imprimerie/carterie"
+               title="Carterie professionnelle" class="at-link" data-at="carterie_professionnelle-lower_menu---exit" >Carterie professionnelle</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+
+
+  
+
+
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+  <div class="bloc pre-footer-sm">
+  <span class="title">
+    
+      <a href="https://www.challenges.fr/regions/">En régions </a>
+    
+  </span>
+    <div class="in">
+      <ul class="list-square">
+        
+          <li>
+            <a href="https://www.challenges.fr/ile-de-france/"
+               title="Île-de-France" class="at-link" data-at="iledefrance-lower_menu---exit" >Île-de-France</a>
+          </li>
+        
+          <li>
+            <a href="https://www.challenges.fr/regions/hauts-de-france/"
+               title="Hauts-de-France" class="at-link" data-at="hautsdefrance-lower_menu---exit" >Hauts-de-France</a>
+          </li>
+        
+          <li>
+            <a href="https://www.challenges.fr/regions/auvergne-rhone-alpes/"
+               title="Auvergne-Rhône-Alpes" class="at-link" data-at="auvergnerhonealpes-lower_menu---exit" >Auvergne-Rhône-Alpes</a>
+          </li>
+        
+          <li>
+            <a href="https://www.challenges.fr/regions/paca/"
+               title="PACA" class="at-link" data-at="paca-lower_menu---exit" >PACA</a>
+          </li>
+        
+          <li>
+            <a href="https://www.challenges.fr/regions/nouvelle-aquitaine/"
+               title="Nouvelle-Aquitaine" class="at-link" data-at="nouvelleaquitaine-lower_menu---exit" >Nouvelle-Aquitaine</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+
+
+  
+
+
+
+  
+
+
+                </div>
+              </div>
+            
+
+            
+              
+
+  
+
+  
+
+
+            
+
+            
+
+
+<div class="container-in container-in-border-top container-in-border-top-sml container-pre-footer">
+
+    <div class="bloc pre-footer-sm pre-footer-mail">
+      
+      
+<div class="bloc newsletter-form">
+  <span class="title">Newsletter Challenges</span>
+  <div class="in">
+    <img class="lazyload" data-src="/img/cha/divers/block-newsletter-bandeau.jpg " width="350" height="124" />
+    <form method="GET" action="https://espaceclient.challenges.fr/WebloggiaGCH/afficherCreationUtilisateur.action">
+      <input type="email" name="email" placeholder="Entrez votre adresse e-mail">
+      <input type="submit" class="gtm-input at-link" data-at="newsletter-footer---action" value="Je crée mon compte">
+      <p>Déjà un compte ? <a href="https://espaceclient.challenges.fr/WebloggiaGCH/" target="_blank">Je me connecte</a>
+    </form>
+  </div>
+</div>
+
+    </div>
+
+    <div class="bloc pre-footer-sm pre-footer-social">
+      <span class="title">Suivez-nous</span>
+      <div class="in">
+        
+        <a href="https://www.facebook.com/challenges" target="_blank" rel="noopener" class="fb social-btn-white at-link" data-at="reseaux_sociaux-footer-social-facebook-exit" ><span class="icon-social icon-social-facebook"></span></a>
+        
+        <a href="https://twitter.com/Challenges" target="_blank" rel="noopener" class="tw social-btn-white at-link" data-at="reseaux_sociaux-footer-social-twitter-exit" ><span class="icon-social icon-social-twitter"></span></a>
+        
+        <a href="https://www.linkedin.com/company/80846" target="_blank" rel="noopener" class="ln social-btn-white at-link" data-at="reseaux_sociaux-footer-social-linkedin-exit" ><span class="icon-social icon-social-linkedin"></span></a>
+        
+        <a href="https://www.instagram.com/challenges/" target="_blank" rel="noopener" class="instagram social-btn-white at-link" data-at="reseaux_sociaux-footer-social-instagram-exit" ><span class="icon-social icon-social-instagram"></span></a>
+        
+        <a href="https://www.challenges.fr/rss" target="_blank" rel="noopener" class="rs social-btn-white at-link" data-at="flux_rss-footer---navigation" ><span class="icon-social icon-social-rss"></span></a>
+      </div>
+    </div>
+
+</div>
+
+
+          </div>
+        </div>
+
+        
+
+
+<footer id="footer" class="container-in-border-top ">
+
+
+  <div class="container-in">
+    
+
+  
+
+  
+     
+
+     
+
+    
+
+  
+
+  
+  
+
+
+  
+  
+
+
+  <section class="ejs-tpl-linksList highlights-top rbrq-common-a  ejs-tpl-linksList-desktop">
+    <div class="container-a-link-list">
+      
+        
+          <a class="cha-a-link-list temps-fort-audio " 
+             href="https://www.challenges.fr/audio/">Challenges Audio</a>
+      
+        
+          <a class="cha-a-link-list  " 
+             href="https://www.challenges.fr/espace-debat/debats">Espace débat</a>
+      
+        
+          <a class="cha-a-link-list  " 
+             href="https://www.challenges.fr/idees/">Nos éditorialistes</a>
+      
+        
+          <a class="cha-a-link-list  " 
+             href="https://www.challenges.fr/grandes-ecoles/">Grandes Écoles </a>
+      
+        
+          <a class="cha-a-link-list  " 
+             href="https://www.challenges.fr/1to1retail/">1to1retail</a>
+      
+    </div>
+  </section>
+  
+  <section class="ejs-tpl-linksList highlights-top rbrq-common-a  ejs-tpl-linksList-mobile">
+    <div class="container-a-link-list">
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/idees/">Idées</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/entreprise/">Entreprise</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/economie/">Économie</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/politique/">Politique</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/monde/">Monde</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/media/">Média</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/high-tech/">High-Tech</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/automobile/">Automobile</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/emploi/">Emploi</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/patrimoine/">Patrimoine</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/luxe/">Luxe</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/femmes/">Femmes</a>
+      
+        
+          <a class=" " 
+             href="https://www.challenges.fr/audio/">Challenges Audio</a>
+      
+    </div>
+  </section>
+
+  
+
+
+  
+
+
+
+  
+
+
+  </div>
+  <hr>
+  <div class="container-in container-in-table">
+    <div class="bloc"><a href="https://www.challenges.fr/classements/" class="title at-link " data-at="classements-lower_footer---navigation" >Classements</a><a href="https://www.challenges.fr/classements/fortune/" class="at-link " data-at="fortunes-lower_footer-classements--navigation" >Les 500 plus grandes fortunes de France</a><a href="https://www.challenges.fr/classements/prix-immobilier-m2/" class="at-link " data-at="prix_de_l_immobilier-lower_footer-classements--navigation" >Les prix de l'immobilier au m2</a><a href="https://www.challenges.fr/classements/salaire/" class="at-link " data-at="salaires_des_cadres-lower_footer-classements--navigation" >Les salaires des cadres</a><a href="https://www.challenges.fr/classements/start-up/" class="at-link " data-at="100_startup_ou_investir-lower_footer-classements--navigation" >100 Start-up où investir</a><a href="https://www.challenges.fr/classements/cote-des-diplomes/" class="at-link " data-at="la_cote_des_diplomes-lower_footer-classements--navigation" >La cote des diplomes</a><a href="https://www.challenges.fr/classements/prepas/" class="at-link " data-at="les_meilleurs_prepas-lower_footer-classements--navigation" >Les meilleures prépas</a><a href="https://www.challenges.fr/emploi/classement-des-ecoles-de-commerce/classement-2022-ecoles-de-commerce_793195" class="at-link " data-at="classement_ecole_de_commerces-lower_footer-classements--navigation" >Le classement des écoles de commerce</a></div><div class="bloc"><a href="https://www.challenges.fr/services" class="title at-link " data-at="page_services-lower_footer---action" >Services</a><a href="https://immobilier.challenges.fr/" class="at-link " data-at="defiscalisation_immobiliere-lower_footer-services--exit" >Défiscalisation immobilière</a><a href="https://www.challenges.fr/economie/meilleurtaux-banques/" class="at-link " data-at="meilleurtaux_banques-lower_footer-services--exit" >Meilleurtaux Banques</a><a href="https://solutions.lesechos.fr/compta-gestion/" class="at-link " data-at="comptabilite_et_gestion_dentreprise-lower_footer-services--exit" >Comptabilité et Gestion d'entreprise</a><a href="https://vet-urgentys.fr" class="at-link " data-at="veterinaire_de_garde-lower_footer-services--exit" >Veterinaire de garde</a><a href="https://www.jlogiciels.fr/logiciel-batiment" class="at-link " data-at="logiciel_batiment-lower_footer-services--exit" >Logiciel batiment</a><a href="https://docubiz.fr/obtenir-kbis" class="at-link " data-at="kbis-lower_footer-services--exit" >Kbis</a></div><div class="bloc"><a href="https://www.challenges.fr/vie-pratique/" class="title at-link " data-at="vie_pratique-lower_footer---navigation" >Vie pratique</a><a href="https://assurance-vie.eu/" class="at-link " data-at="comparateur_assurance_vie-lower_footer-vie_pratique--navigation" >Comparateur assurance vie</a><a href="https://www.retraite.com/simulateur-per-challenges/?track=TR57" class="at-link " data-at="per_plan_epargne_retraite-lower_footer-vie_pratique--navigation" >PER - Plan Epargne Retraite</a><a href="https://www.extraitactenaissance.com/" class="at-link " data-at="acte_de_naissance-lower_footer-vie_pratique--navigation" >Acte de naissance</a><hr><a href="https://www.challenges.fr/page/mentions-legales" class="title at-link " data-at="pages_legales-lower_footer---action" >Pages légales</a><a href="https://www.challenges.fr/page/politique-des-cookies" class="at-link " data-at="politique_des_cookies-lower_footer-pages_legales--action" >Politique des cookies</a></div><div class="bloc"><a href="https://www.challenges.fr/page/licence-et-droits-de-reproduction" class="at-link " data-at="copyright-lower_footer-pages_legales--action" >Copyright</a><a href="https://www.challenges.fr/page/donnees-personnelles" class="at-link " data-at="données_personelles-lower_footer-pages_legales--action" >Données personnelles</a><hr><a href="https://www.challenges.fr/page/cgv-cgu" class="title at-link " data-at="cgv_cgu-lower_footer---" >CGV - CGU</a><hr><a href="https://www.challenges.fr/page/auteurs" class="highlight at-link" data-at="la_redaction-lower_footer---navigation" > La rédaction</a><a href="https://www.challenges.fr/page/contacts" class="highlight at-link" data-at="contact-lower_footer---action" > Contacts</a><a href="javascript:Didomi.preferences.show()" class="highlight at-link" data-at="consentement-lower_footer---action" > Consentement</a><a href="https://www.challenges.fr/" class="highlight preferences_notifications at-link" data-at="notifications-lower_footer---action" > Notifications</a><a href="https://www.challenges.fr/page/les-notifications-web-de-challenges" class="highlight at-link" data-at="les_notifications_web-lower_footer---action" > Les notifications web </a><a href="https://www.challenges.fr/page/charte-de-moderation" class="highlight at-link" data-at="charte_de_moderation-lower_footer---action" > Charte de modération</a><a href="https://www.mediaobs.com/" class="highlight at-link" data-at="publicité-lower_footer---exit" > Publicité</a><a href="https://www.challenges.fr/index/" class="highlight at-link" data-at="nos_archives-lower_footer---navigation" > Nos archives</a><a href="https://www.challenges.fr/plan-du-site" class="highlight at-link" data-at="plan_du_site-lower_footer---navigation" > Plan du site</a><a href="https://www.challenges.fr/page/centre-d-aide" class="highlight at-link" data-at="aide_abonne-lower_footer---action" > Centre d'aide abonnés</a><a href="https://abo.challenges.fr/" class="highlight aboat-link" data-at="abonnement-lower_footer---action" > S'abonner</a></div>
+  </div>
+  <hr class="hr-last">
+
+  <div class="container-in container-footer-last"
+
+
+  >
+    
+      <a href="https://www.challenges.fr" class="logo">
+      
+        <img src="https://www.challenges.fr/img/cha/logo.svg" style="width: 180px; height: 45px;">
+      
+      </a>
+    
+    <span class="text">© Challenges - Les contenus, marques, ou logos du site challenges.fr sont soumis à la protection de la propriété intellectuelle.</span>
+    
+    <span class="ojd"><a href="https://www.acpm.fr/Support-Numerique/site/challenges-fr" class="at-link" data-at="audience_acpm-lower_footer---exit" target="_blank" rel="noopener"><span>Audience certifiée par&nbsp;</span></a></span>
+  </div>
+
+</footer>
+
+
+
+
+<script defer src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+
+  
+
+
+
+
+
+
+
+  <script type="text/javascript" id="main-script" defer src="https://www.challenges.fr/js/script.min.js?version=c3d2e4b67-37f4-4200-924f-2a60968dcc87" ></script>
+
+
+
+
+
+
+
+
+
+
+
+        
+
+                
+        <div id="poool_init" data-key="TBX9K-XTCUG-VB4T0-J49VE"
+          data-subscription-url="https://abo.challenges.fr/"
+          data-cookiewall-url="https://abo.challenges.fr/abonnement/numerique/cmp-7w22si19/"
+          data-login-url="https://espaceclient.challenges.fr/WebloggiaGCH/"
+          data-amorce="0"
+          data-page="free" 
+              
+                data-context="automobile"
+                  
+                    >
+        </div>
+
+                <div id="cookie-wall" class="cookie-wall temp-paywall" style="display:none;">
+    <div class="widget"><div class="inner">
+        <div class="back" id="js-back-cmp"><span class="icon-arrow-left"></span>Retour</div>
+        <div class="logo"></div>
+        <br/>
+        <span class="text">Nous avons enregistré votre choix pour les cookies de mesure d’audience, contenu personnalisé et ciblage publicitaire.<br/><br/>Concernant les cookies publicitaires, un choix alternatif à l’acceptation de l’affichage de publicités ciblées vous est proposé pour donner à la Rédaction les moyens de toujours fournir une information de qualité, riche et dense :</span>
+        <br/><br/>
+        <a class="button" id="js-accept-basic-cmp" href="https://espaceclient.challenges.fr/WebloggiaGCH/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928&from=cmp"><span>Déjà abonné</span></a>
+        <a class="button" href="https://abo.challenges.fr/abonnement/numerique/cmp-7w22si19/?redirect=https%3A%2F%2Fwww.challenges.fr%2Fautomobile%2Fnouveautes%2Fssc-tuatara-la-voiture-la-plus-puissante-au-monde_608928&from=cmp"><span>Je m’abonne</span></a>
+        <p class="already"><a class="button" id="js-accept-full-cmp"><span>Accepter et continuer</span></a></p>
+    </div></div>
+</div>
+
+                
+
+<div class="popin-airship-preferences">
+  <div class="widget">
+    <div class="close icon-close-cross js-close-airship" id="js-close-airship"></div>
+    <div class="inner">
+
+      <p class="title">Centre de préférence<br/>de vos alertes infos</p>
+      <div id="airship-form">
+        <div class="valid">
+          <p class="text">Vos préférences ont bien été enregistrées.</p>
+          <p>Si vous souhaitez modifier vos centres d'intérêt, vous pouvez à tout moment cliquer sur le lien Notifications, présent en pied de toutes les pages du site.</p>
+          <div class="centered-btn-container"><button type="button" id="js-close-preferences" class="rounded-btn btn large-btn"><span>Fermer</span></button></div>
+        </div>
+        
+        <form class="form" method="post">
+          <p class="text">Vous vous êtes inscrit pour recevoir l’actualité en direct, qu’est-ce qui vous intéresse?</p>
+          <input type="hidden" name="preferences" value="cha_preferences_center" />
+          <fieldset>
+            <span>Je souhaite TOUT savoir de l’actualité et je veux recevoir chaque alerte</span>
+            <label class="switch"><input type="checkbox" name="tags_generic" id="checkedAll" value="Général">
+              <span class="slider round"></span>
+            </label>
+          </fieldset>
+          <p>Je souhaite recevoir uniquement les alertes infos parmi les thématiques suivantes :</p>
+          
+            <fieldset>
+              <span>Entreprise</span>
+              <label class="switch">
+                <input type="checkbox" class="checkedSpecific" name="tags" value="Entreprise">
+                <span class="slider round"></span>
+              </label>
+            </fieldset>
+          
+            <fieldset>
+              <span>Politique</span>
+              <label class="switch">
+                <input type="checkbox" class="checkedSpecific" name="tags" value="Politique">
+                <span class="slider round"></span>
+              </label>
+            </fieldset>
+          
+            <fieldset>
+              <span>Économie</span>
+              <label class="switch">
+                <input type="checkbox" class="checkedSpecific" name="tags" value="Économie">
+                <span class="slider round"></span>
+              </label>
+            </fieldset>
+          
+            <fieldset>
+              <span>Automobile</span>
+              <label class="switch">
+                <input type="checkbox" class="checkedSpecific" name="tags" value="Automobile">
+                <span class="slider round"></span>
+              </label>
+            </fieldset>
+          
+            <fieldset>
+              <span>Monde</span>
+              <label class="switch">
+                <input type="checkbox" class="checkedSpecific" name="tags" value="Monde">
+                <span class="slider round"></span>
+              </label>
+            </fieldset>
+          
+          <fieldset class="optout">
+            <span>Je ne souhaite plus recevoir de notifications</span>
+              <label class="switch"><input type="checkbox" name="optout" id="checkOptout">
+              <span class="slider round"></span>
+            </label>
+          </fieldset>
+          <div class="centered-btn-container"><button type="submit" class="rounded-btn btn large-btn"><span>Enregistrer mes préférences</span></button></div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+  </body>
+
+</html>
